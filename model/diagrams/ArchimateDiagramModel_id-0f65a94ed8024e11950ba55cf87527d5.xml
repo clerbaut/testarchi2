@@ -1,4 +1,30 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Default View"
-    id="id-0f65a94ed8024e11950ba55cf87527d5"/>
+    id="id-0f65a94ed8024e11950ba55cf87527d5">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ee150925179d4902b478161b87ee4640">
+    <bounds
+        x="948"
+        y="391"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-b724fc5a4cd64ae0a6382ebfa557e305.xml#id-b724fc5a4cd64ae0a6382ebfa557e305"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-bc054bd576f140a4aed65c5e2797b5ab">
+    <bounds
+        x="694"
+        y="209"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-f58ee04d5d2340f1986b21f549583da5.xml#id-f58ee04d5d2340f1986b21f549583da5"/>
+  </children>
+</archimate:ArchimateDiagramModel>
